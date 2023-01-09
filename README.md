@@ -2,6 +2,8 @@
 
 Simple app to manage people and their kinships and build their Family Tree.
 
+The intention behind this project is to further understand a few things about building web applications in Go, like how to manage routing without third party packages and to test out different database management styles.
+
 ## Dev
 
 ### Setup
